@@ -3,6 +3,15 @@
 Autor: Anderson de Oliveira \
 Data: 2021-08-29
 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=JSON+web+tokens&logoColor=white)
+
+![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apache+maven&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
+![h2](https://img.shields.io/badge/h2-%23FF5733.svg?style=for-the-badge&logo=h2&logoColor=white)
+
 ## Objetivo
 Este projeto tem como objetivo estudar e entender a implementação do Spring Security com JSON Web Tokens (JWT). \
 O foco é aprender como configurar a autenticação e autorização usando Spring Security e JWT.
